@@ -1,5 +1,5 @@
 i am learning the development operation Devops enggineering (DevOps),
-this is tool name and method name => :
+this is tool name and method name => : Collaboration and Project Management
 give me all details about this tool to get better understandment 
 What is it exactly? (Definition, and is it a tool, platform, methodology, or framework?)
 What core problem does it solve, and why was it created?
