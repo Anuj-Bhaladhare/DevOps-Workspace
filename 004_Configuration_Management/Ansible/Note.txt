@@ -1,0 +1,27 @@
+What Ansible Can do ?
+    - Configuration Management
+    - Provisning Management
+    - Deployment (CI/CD)
+    - Network Automation
+
+
+Proxmox Vertual Machine SSH Vs:
+
+1) Ansible-Control-Node
+    ID =>   ssh ansible-control-node@192.168.1.215
+    PASS => 1999
+
+2) Manage-Node-1
+    ID =>   ssh manage-node-1@192.168.1.216
+    PASS => 1999
+
+3) Manage-Node-2
+    ID =>   ssh manage-node-2@192.168.1.217
+    PASS => 1999
+
+
+The key fingerprint is:
+SHA256:ZL2D8KN5SLavd++Du2TH+YeIss2+JJGIekGpVxFRV/8 ansible-control-node@ubuntu
+The key's randomart image is:
+
+
